@@ -101,7 +101,7 @@ public:
                 adaugaCarte(p.trageCarte());
                 if (calculeazaPuncte() > 21)
                 {
-                    cout << "Bust!\n";
+                    cout << "Bust!" << " Ai " <<calculeazaPuncte()<< " de puncte!\n";
                     return;
                 }
                 if (calculeazaPuncte() == 21)
@@ -146,7 +146,8 @@ void Castigator(int x, int y)
         cout << "Dealerul a castigat!";
     else if (x == y)
         cout << "Egalitate!";
-}
+    
+    }
 
 int main()
 {
