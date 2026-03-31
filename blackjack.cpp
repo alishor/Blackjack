@@ -164,4 +164,6 @@ int main()
     pc.joaca(pachet);
 
     Castigator(jucator.calculeazaPuncte(), pc.calculeazaPuncte());
+
+    return 0;
 };
