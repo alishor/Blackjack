@@ -1,2 +1,2 @@
 # Blackjack
-Joc de Blackjack single player, scris in C++
+Blackjack game writen in C++
