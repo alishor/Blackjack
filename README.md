@@ -1,2 +1,2 @@
 # Blackjack
-Blackjack game writen in C++
+Blackjack game written in C++
